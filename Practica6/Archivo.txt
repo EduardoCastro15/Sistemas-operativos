@@ -1,0 +1,5 @@
+Hola Mundo
+Mi nombre es Eduardo Castro
+Tengo 21 años
+Vivo en la Ciudad de Mexico
+Estudio en ESCOM
